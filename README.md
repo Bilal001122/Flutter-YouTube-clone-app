@@ -1,6 +1,9 @@
 # YouTube clone app
 
-A new Flutter project.
+
+https://user-images.githubusercontent.com/101145194/183973905-6b65f2d3-39d9-498e-baee-a3f8d3285c1a.mp4
+
+
 
 ## Getting Started
 
